@@ -5,6 +5,7 @@ channels = ["conda-forge", "nodefaults"]
 
 [tool.pixi.dependencies]
 ipykernel = ">=6.29"
+nbformat = ">=4.2"
 pandas = ">=2.2"
 plotly = "*"
 pyarrow = ">=19.0"
